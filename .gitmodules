@@ -1,0 +1,9 @@
+[submodule "labwork-1-Deniillo"]
+	path = labwork-1-Deniillo
+	url = https://github.com/is-itmo-c-22/labwork-1-Deniillo.git
+[submodule "labwork2-Deniillo"]
+	path = labwork2-Deniillo
+	url = https://github.com/is-itmo-c-22/labwork2-Deniillo.git
+[submodule "geometric_lib"]
+	path = geometric_lib
+	url = https://github.com/smartiqaorg/geometric_lib
